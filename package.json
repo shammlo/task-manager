@@ -2,7 +2,7 @@
     "name": "task-manager",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
+    "main": "index.ts",
     "scripts": {
         "start": "node src/index.js",
         "dev": "cls && nodemon src/index.ts"
