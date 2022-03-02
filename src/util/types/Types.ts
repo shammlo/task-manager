@@ -45,7 +45,7 @@ export interface TaskType {
     __v: number;
 }
 
-type custom = keyof UserType;
+// type custom = keyof UserType;
 
 export interface ReqUserType {
     user: UserType;
